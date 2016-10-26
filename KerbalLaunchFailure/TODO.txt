@@ -3,4 +3,8 @@ auto-shutdown attempts (random delay so they won't always be in time), but in ca
 
 failures aren't always explosive, but maybe an engine or SRB fails to start, or there is an over/under thrust.
 
- 
+DGS:
+Gimbal hard over
+SRBs explode
+Logging refactor for 1.2 format
+???
